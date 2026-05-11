@@ -1,6 +1,12 @@
-*.class
-bin/
-.metadata/
-.settings/
+# database config
+db.properties
+
+# eclipse project files
 .classpath
 .project
+.settings/
+.metadata/
+
+# compiled files
+*.class
+bin/
